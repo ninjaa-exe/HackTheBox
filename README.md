@@ -1,2 +1,2 @@
 # HackTheBox
-HTB machines walkthrough
+My walkthrough for the HTB machines
