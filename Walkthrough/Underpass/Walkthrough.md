@@ -28,7 +28,7 @@ Para descriptografar entro no site https://crackstation.net/ e insiro o hash de 
 
 Depois de conseguir a senha, loguei pelo serviço SSH utilizando as credenciais obtidas anteriormente, svcMosh:underwaterfriends, e dando um simples ls, consigo a user key: 318e3379c1865605a000a4c6fa5ad3d4
 
-![userkey.png](imagens/userkey.png)
+![userkey.png](HackTheBox/Walkthrough/Underpass/imagens/userkey.png)
 
 ## Privilege Escalation
 
