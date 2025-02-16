@@ -26,7 +26,7 @@ Para descriptografar entro no site https://crackstation.net/ e inseri hash de se
 
 Depois de conseguir a senha, loguei pelo serviço SSH utilizando as credenciais obtidas anteriormente, e dando um simples ls, consigo a user key
 
-![userkey.png](HackTheBox/Walkthrough/Chemistry/imagens/userkey.png)
+![userkey.png](/imagens/userkey.png)
 
 ## Privilege Escalation
 
